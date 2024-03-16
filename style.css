@@ -1,0 +1,155 @@
+body {
+    background-color: #1E1C1C;
+}
+h1 {font-family: 'Raleway', sans-serif;color: #755081;font-size: 36px; padding-top:20px; font-weight:400;
+}
+h5 {font-family: 'Raleway', sans-serif;color: #f6aa22;font-size: 50px; font-weight:400;padding-left: 10%;margin-top: -11%;
+}
+h6 {font-family: 'Raleway', sans-serif;color: #755081;font-size: 80px; font-weight:500;padding-bottom:-50px}
+h4 {font-family: 'Raleway', sans-serif;color: black;font-size: 30px; margin-top:-150px; font-weight:300;
+}
+h8 {font-family: 'Raleway', sans-serif;color: black;font-size: 30px; margin-top:-0px; font-weight:300;
+}
+h9 {font-family: 'Raleway', sans-serif;color: #e9e9df;font-size: 40px; font-weight:400;
+padding-top:30px;}
+h7 {font-family: 'Raleway', sans-serif;color:#f6aa22;font-size: 30px; font-weight:300;;
+}
+h2 {font-family: 'Raleway', sans-serif;color: #e9e9df;font-size: 50px; font-weight:400;
+padding-top:30px;}
+h3 {font-family: 'Raleway', sans-serif;font-size: 70px; font-weight:400;
+padding-top:30px;padding-left:-20px;}
+p {color: black;font-size: 50px;}
+.header {
+    height: 600px;
+    max-width: 100%;
+    background-color: #1E1C1C;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    color: White;
+    font-size: 50px;
+    margin-top: -10px;
+    font-weight: 300;
+}
+.centercontent {height:100%; width:1000px;margin-top:0px;margin-right:auto;margin-bottom:0px;margin-left:auto;}
+.footer {
+    height: 600px;padding-top:5%;
+    width: 100%;
+    background-color: white;
+    float: bottom;
+}
+
+.blerb {
+    height: 5500px;
+    max-width: 100%;
+    background-color: #1E1C1C;
+    margin-top: -125px;
+}
+.centered {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 32px;
+    margin-top: -180px;
+    font-weight: 600;width:80%
+}
+.bottom-left {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 180px;
+    margin-top: -10px;
+    font-weight: 600;
+    position: absolute;
+    bottom: 400px;
+    left: 16px;
+}
+.top-left {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 70px;
+    margin-top: -10px;
+    font-weight: 600;
+    position: absolute;
+    top: 60px;
+    left: 160px;
+}
+.bottom-right {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 180px;
+    margin-top: -10px;
+    font-weight: 600;
+    position: absolute;
+    bottom: -400px;
+    Right: 100px;
+}
+  .banner{padding-top:160px;width:100%;}
+  .top{position:absolute;width:100%}
+  .accent{padding-top:250px;padding-left:1000px;}
+
+.mockups {
+    font-family: 'Raleway', sans-serif;
+    margin-left: -400px;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.stickers {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 400px;
+    margin-top:-180px;
+    width: 100%;
+    height: 100%;float:left
+}
+.spreads {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 0px;
+    margin-top: 10px;
+    width: 100%;
+    height: 100%;
+    float: left
+}
+.web {
+    font-family: 'Raleway', sans-serif;
+   margin-top:-450px; margin-left: -400px;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.lefttext1 {
+    font-family: 'Raleway', sans-serif;margin-top:3500px;font-size:104px;margin-left:-20px;padding:100px;
+    color: #D63C3C;position:absolute;
+}
+.lefttext2 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 80px;margin-right:10000px;
+    font-size: 104px;
+    margin-left: -800px;
+    padding: 1200px;
+    color: #D63C3C;
+    position: absolute;
+}
+    .righttext1 {
+    font-family: 'Raleway', sans-serif;padding-top:400px;font-size:104px;padding:1200px;margin-top:-800px;
+    color: #D63C3C;position:absolute;
+}
+.righttext2 {
+    font-family: 'Raleway', sans-serif;
+    margin-top: 1200px;
+    font-size: 104px;
+    padding: 1200px;
+    color: #D63C3C;
+    position: absolute;
+}
+
+
+.linked {
+   float:right;position:absolute;
+   
+    margin-top: -500px;
+    margin-bottom: 0px;
+    margin-left: 1800px;
+    margin-right: 0px;
+}
